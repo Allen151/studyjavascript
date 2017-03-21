@@ -1,0 +1,3 @@
+# studyjavascript
+学习JavaScript过程中的一些好玩的案例
+初学JavaScript觉得实现的动态页面都很神奇
